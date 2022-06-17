@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "har",
+      "email": "har@gmail.com",
+      "phone": "1234567890",
+      "id": 1651296437107,
+      "fav": true
+    },
+    {
+      "name": "aar",
+      "email": "aaar@gmail.com",
+      "phone": "9876543210",
+      "id": 1651297067474,
+      "fav": true
+    },
+    {
+      "name": "hahahaha",
+      "email": "hahaha@gmail.com",
+      "phone": "78965426312",
+      "id": 1651300649324,
+      "fav": false
+    }
+  ]
+}
